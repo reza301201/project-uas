@@ -22,6 +22,7 @@ Cara Menjalankan Program :
 
 ### Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
 
+[Video Youtube](https://youtu.be/qpd7Pxz14NA)
 
 Berikut link repository github :
 
